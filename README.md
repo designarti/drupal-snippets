@@ -1,3 +1,2 @@
-# drupal-snippets
-Drupal Snippets
+# Drupal Snippets
 A few useful snippets.
